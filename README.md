@@ -1,7 +1,3 @@
-You're right! Since the original project already has its own license, it's better not to include a license in your README. Here's the updated version without the license section:
-
----
-
 # RISC Processor Design: Verilog Implementation
 
 ## Overview
